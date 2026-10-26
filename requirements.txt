@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+pydantic
+openai
+python-dotenv
+pypdf
+python-docx
+networkx
+numpy
+faiss-cpu
+sentence-transformers
+langchain-text-splitters
+streamlit
+requests
